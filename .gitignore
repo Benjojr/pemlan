@@ -1,3 +1,7 @@
 init_repo.bat
 upload_repo.bat
 .gitignore
+/AntrianLoketGUI/nbproject/private/
+/AntrianLoketGUI/build/
+/FileReaderExample/nbproject/private/
+/FileReaderExample/build/
